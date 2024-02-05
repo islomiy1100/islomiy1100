@@ -37,3 +37,9 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
+<h2>Team Members:</h2>
+<ul>
+    <li>Murodil</li>
+    <li>Sohibjon</li>
+    <li>Madina</li>
+</ul>
