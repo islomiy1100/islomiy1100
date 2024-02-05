@@ -1,4 +1,2 @@
-###### Hi there 👋
-## Hi there 👋
-# Hi there 👋
-<h1 align='center'>Hello World </h1>
+<img src="{https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white}" />
+![image]({https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white})
