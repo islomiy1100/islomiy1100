@@ -43,3 +43,10 @@
     <li>Sohibjon</li>
     <li>Madina</li>
 </ul>
+
+    <h1>NamMQI TALABALARI YARATGAN WEB SAHIFA</h1>
+    <marquee behavior="" direction="">Hybrid Team bilan yangi start up loyihasini boshladik</marquee>
+    <h3>Branchlar bilan ishlash</h3>
+    <h2>Git Statusni tekshirish</h2>
+    <img src="https://images.unsplash.com/photo-1483232539664-d89822fb5d3e?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG8lMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww" alt="" width="300" height="200">
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Velit officia aperiam impedit, reiciendis provident quos aut est animi, laudantium accusamus harum libero iste autem omnis dolore delectus. Velit, possimus vero!</p>
