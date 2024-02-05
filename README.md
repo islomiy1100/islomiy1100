@@ -2,6 +2,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Islomjon+Makhamadjanov!;" />
 </h1>
-<h3 align="center">I am a software engineer from Uzbekistan ![image](https://github.com/islomiy1100/islomiy1100/assets/158542690/f743e748-9d4c-4df5-944e-fe72cedf5077)
+<h3 align="center">I am a software engineer from Uzbekistan 
+    <img src="https://github.com/islomiy1100/islomiy1100/assets/158542690/87480584-3e58-4330-a2bd-4e4b65bc4dfd" />
 </h3>
 
